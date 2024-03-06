@@ -2,7 +2,7 @@ This recipe is adapted from many recipes found online, cheers to Giacomo for the
 
 
 # Focaccia
-This recipe is for focaccia, but if you substitute the salamoia with tomato sauce, you can make pizza (milanese style). This recipe requires 24 hours of rest in the fridge, so plan ahead. 
+This recipe is for focaccia, but if you substitute the salamoia with tomato sauce, you can make pizza (milanese style). This recipe requires 24 hours of rest in the fridge and two hours rest in the baking tray, so plan ahead. 
 
 This recipe is for two 30x40cm trays, that will feed 6-8 people.
 
