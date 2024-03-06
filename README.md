@@ -5,7 +5,7 @@ Literally just cooking recipes! On GitHub! Because i feel like it!
 ## Index
 
 ### [Dishes](dishes/README.md)
-- [Focaccia](dishes/focaccia.md)
+- [Focaccia](dishes/focaccia.md) or pizza al taglio
 - [Fried Rice](dishes/fried-rice.md)
 
 ### [Desserts](desserts/README.md)
