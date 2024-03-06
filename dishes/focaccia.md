@@ -6,7 +6,7 @@ This recipe is for focaccia, but if you substitute the salamoia with tomato sauc
 
 This recipe is for two 30x40cm trays, that will feed 6-8 people or 4 hungry people.
 
-### Ingredients
+## Ingredients
 - 1000g high protein flour (12-14% protein). You can use something like W270 or a mixture of 70% W270 and 30% W350. **If you are lost at this indication, don't worry**, just use a flour with high protein content, typically pizza flour.
 - 550g water
 - 40g extra virgin olive oil
