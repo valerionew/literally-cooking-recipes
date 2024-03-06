@@ -31,10 +31,10 @@ For pizza you make tomato sauce:
 1) Dissolve the yeast in ambient temperature water;
 1) Add the water to the flour and mix until the water is absorbed;
 1) Add the oil slowly and the salt and mix until the oil is absorbed;
-1) Knead the dough for 10 minutes, until it is smooth and elastic;
-1) Cover the bowl with a cloth and let the dough rest for 30 minutes, at room temperature in winter, in the fridge in summer;
+1) Knead the dough until smooth and elastic;
+1) Cover the bowl with a damp cloth and let the dough rest for 30 minutes, at room temperature in winter, in the fridge in summer;
 1) After the rest, divide the dough in two (you should consider 0.5-0.6g per cm^2 of tray, two parts is a good approximation for two 30x40cm tray);
-1) Put each part in a separate container, cover with film and let it rest in the fridge at 4C for 24 hours or not less than 16-18h. Expect the dough to double or triple in size, so use a container that can accomodate that;
+1) Put each part in a separate container, cover with film or damp cloth and let it rest in the fridge at 4°C for 24 hours or not less than 18h. Expect the dough to double or triple in size, so use a container that can accomodate that;
 1) After the rest, take the dough out of the fridge and let it rest at room temperature for some minutes;
 1) Oil the trays just enough to cover the bottom and the sides, you can use a brush or your hands. Do not use too much oil;
 1) Put the dough in the trays and spread it with your hands or a rolling pin, until it covers the whole tray. If the dough is too elastic and springs back, let it rest for 10 minutes and try again;
