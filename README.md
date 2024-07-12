@@ -7,6 +7,7 @@ Literally just cooking recipes! On GitHub! Because i feel like it!
 ### [Dishes](dishes/README.md)
 - [Focaccia](dishes/focaccia.md) or pizza al taglio
 - [Fried Rice](dishes/fried-rice.md)
+- [Chinese meat dumplings](dishes/chinese-meat-dumplings.md)
 
 ### [Desserts](desserts/README.md)
 - [Pastiera Napoletana](desserts/pastiera.md)
