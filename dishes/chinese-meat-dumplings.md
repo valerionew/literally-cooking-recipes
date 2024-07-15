@@ -1,4 +1,4 @@
-I have been using this recipe for a while now, but it comes from a course I did a long ago with (WoShou)[https://www.instagram.com/woshou.polimi/] - Chinese Italian Polimi Students Association. 
+I have been using this recipe for a while now, but it comes from a course I did a long ago with [WoShou](https://www.instagram.com/woshou.polimi/) - Chinese Italian Polimi Students Association. 
 
 # Chinese Meat Dumplings
 This recipe is for making delicious Chinese meat dumplings. It requires some preparation time and patience, but the result is worth it. 
