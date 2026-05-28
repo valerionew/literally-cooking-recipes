@@ -43,7 +43,7 @@ For pizza you make tomato sauce:
 9. After the rest, take the dough out of the fridge and let it rest at room temperature for some minutes;
 10. Oil the trays just enough to cover the bottom and the sides, you can use a brush or your hands. Do not use too much oil;
 11. Put the dough in the trays and spread it with your hands or a rolling pin, until it covers the whole tray. If the dough is too elastic and springs back, let it rest for 10 minutes and try again;
-12. Let the dough rest for 45 minutes, covered with a damp cloth. This is just half of the rest. In this phase, it can stay in a warm place, but not too warm, 25-30°C is good;
+12. Let the dough rest for 45 minutes, **covered with plastic film**. This is just half of the rest. In this phase, it can stay in a warm place, but not too warm, 25-30°C is good;
 
 ---
 
